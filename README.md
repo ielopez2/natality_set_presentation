@@ -6,6 +6,7 @@ I will be exploring the CDC 2015 US Natality Data set. Data wrangling and data v
 Markdown will be used through Jupyter Notebooks. 
 
 Questions we will be exploring along the way
+
 ● Do mothers with any risk factors tend to have complications during labor?
 
 ● How early do mothers with knowledge of having risk factors receive prenatal
