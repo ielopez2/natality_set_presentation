@@ -2,7 +2,7 @@
 
 This project is for STAT 448: Advanced Data Analysis
 
-I will be exploring the CDC 2015 US Natality Data set. Data wrangling and data visuals will be created using SAS.
+I will be exploring the CDC 2015 US Natality Data set. Data visuals will be created using SAS.
 Markdown will be used through Jupyter Notebooks. 
 
 Questions we will be exploring along the way
